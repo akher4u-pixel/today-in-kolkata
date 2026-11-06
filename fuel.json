@@ -1,0 +1,8 @@
+{
+  "date": "2026-10-26",
+  "petrol": { "price": 113.51, "prev": 113.51, "changed_on": null },
+  "diesel": { "price": 99.82, "prev": 99.82, "changed_on": null },
+  "source_url_petrol": "https://www.goodreturns.in/petrol-price-in-kolkata.html",
+  "source_url_diesel": "https://www.goodreturns.in/diesel-price-in-kolkata.html",
+  "source_name": "Goodreturns"
+}
